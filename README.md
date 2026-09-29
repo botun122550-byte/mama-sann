@@ -18,3 +18,4 @@ npm run dev
 โปรเจกต์ใช้ Next.js เวอร์ชันล่าสุด — `params` ของ Dynamic Route เป็น Promise
 ต้อง unwrap ด้วย `use()` จาก React (ใน Client Component) หรือ `await` (ใน Server Component) เสมอ
 รายละเอียดและโครงสร้างตารางดูที่ [CLAUDE.md](./CLAUDE.md)
+gph
